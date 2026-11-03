@@ -1,0 +1,8 @@
+{
+  "name": "Farmacia701",
+  "description": "Clinical yet empathetic healthtech & digital pharmacy platform for medication tracking, smart refills, dosage logging, and clinical pharmacist consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
